@@ -1,0 +1,21 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+.env
+
+# Original SalChartQA data are not redistributed.
+data/
+SalChartQA/
+raw_img/
+fixationByVis/
+
+# Local caches and large intermediate artifacts.
+cache/
+processed/cache/
+intermediate/
+*.npz
+*.npy
