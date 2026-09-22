@@ -1,0 +1,6 @@
+model,accuracy,accuracy_percent,gain_over_markov_pp
+Global frequency,0.04621863885417668,4.62,-22.12
+Current region,0.26738681149668364,26.74,0.0
+Current + question type,0.2675069691435163,26.75,0.01
+Current + image type,0.2774139671248678,27.74,1.0
+Current + question + image,0.27766029030087475,27.77,1.03

@@ -1,0 +1,4 @@
+model,transition_level_accuracy,mean_image_accuracy,median_image_accuracy
+Global frequency,4.62,4.66,2.9
+Current-region Markov,26.74,24.91,25.37
+Conditioned Markov,27.77,26.22,26.81

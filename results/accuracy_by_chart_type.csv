@@ -1,0 +1,5 @@
+image_type,n_test_transitions,global_accuracy,markov_accuracy,conditioned_accuracy,conditioned_gain_pp
+h_bar,70760,3.49,26.6,26.65,0.05
+line,47530,3.01,27.49,28.51,1.02
+pie,19436,3.82,21.61,25.15,3.54
+v_bar,28722,10.63,29.32,31.06,1.74

@@ -1,0 +1,8 @@
+question_type,n_test_transitions,global_accuracy,markov_accuracy,conditioned_accuracy,conditioned_gain_pp
+CL,2085,2.06,30.41,24.22,-6.19
+CP,9491,3.68,25.29,25.78,0.49
+F,33542,4.3,27.83,28.33,0.5
+FE,36442,5.16,25.9,27.32,1.42
+Other,4212,4.27,25.47,25.69,0.22
+RV,80044,4.73,26.8,28.19,1.39
+U,632,2.53,28.01,25.0,-3.01
